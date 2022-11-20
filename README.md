@@ -1,8 +1,8 @@
 # Space Invaders - Atitus Edition
 
- Nome: Gabriel Ghion Scortegagna
- RA: 1131997
- atitus.edu.br
+ # Nome: Gabriel Ghion Scortegagna
+ # RA: 1131997
+ # atitus.edu.br
 
 <center> <img src="https://img001.prntscr.com/file/img001/IBvVcjGwTXyf-IfV-YTWXA.png" alt="exemplo imagem"> <center/>
 
