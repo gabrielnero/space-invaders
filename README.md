@@ -23,7 +23,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ## 🚀 Instalando Space Invaders
 
 Para instalar o Space Invaders, siga estas etapas:
-Baixe o arquivo .zip no seguinte link: https://drive.google.com/file/d/1btbR-6kW006plPJiAGN776aADOGmisl3/view?usp=share_link
+Baixe o arquivo .zip no seguinte link: </br> https://drive.google.com/file/d/1btbR-6kW006plPJiAGN776aADOGmisl3/view?usp=share_link
 
 ```
 Extraia e abra o arquivo .exe para começar o jogo.
